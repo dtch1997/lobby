@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Moved into the [arsenal](https://github.com/dtch1997/arsenal) monorepo**
+> (2026-07-10) as [`packages/lobby`](https://github.com/dtch1997/arsenal/tree/main/packages/lobby),
+> history preserved. Install from there:
+> `pip install "git+https://github.com/dtch1997/arsenal#subdirectory=packages/lobby"`.
+> This repo is archived; development continues in arsenal.
+
 # lobby
 
 One tunnel for all your local apps.
